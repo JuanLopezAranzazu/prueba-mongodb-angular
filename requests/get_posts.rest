@@ -1,0 +1,2 @@
+GET http://localhost:3000/api/v1/posts
+Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzMzg4Mjk4ODU0MzNmMDY4ZmMyYWI4NiIsInVzZXJuYW1lIjoianVhbmxvcGV6IiwiaWF0IjoxNjY0NzU4OTgzLCJleHAiOjE2NjQ4NDUzODN9.zUMwNWgyao2Ma_7I9IJj78rJhYnLjJGoEMg8uff0k8w

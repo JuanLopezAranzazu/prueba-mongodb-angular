@@ -1,0 +1,12 @@
+POST http://localhost:3000/api/v1/users
+Content-Type: application/json
+
+{
+  "name": "JUAN LOPEZ",
+  "username": "juanlopez",
+  "password": "root123",
+  "tags": {
+    "gender": "male",
+    "position": "backend developer"
+  }
+}
